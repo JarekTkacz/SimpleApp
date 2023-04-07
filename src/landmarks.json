@@ -1,0 +1,114 @@
+[
+{
+    "type":"landmark",
+    "landmark_name": "Statue of Liberty",
+    "link":"https://www.statueofliberty.org/wp-content/uploads/2020/03/statue-of-liberty-2114376_1920.jpg",
+    "city":"New York City",
+    "category":"statue",
+    "fact":"A gift to the United States from the people of France.",
+    "location": [
+        {
+        "latitude":40.689244,
+        "longitude":-74.044514
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://i0.wp.com/theeverywhereblonde.com/wp-content/uploads/2019/07/goldengatebridge320.png?fit=1280%2C720&ssl=1",
+    "landmark_name":"Golden Gate Bridge",
+    "city":"San Francisco",
+    "category":"bridge",
+    "fact":"There are approximately 600,000 rivets in each tower.",
+    "location": [
+        {
+        "latitude":37.821257,
+        "longitude":-122.478787
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://detroitfiskalumni.org/wp-content/uploads/2018/10/Spirit-of-Detroit_IMG_6595_550x412px-e1544184247781.png",
+    "landmark_name":"Spirit of Detroit",
+    "city":"Detroit",
+    "category":"statue",
+    "fact":"It was commissioned in 1955 for a cost of $58,000.",
+    "location": [
+        {
+        "latitude":42.3293,
+        "longitude":-83.0446
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://t3.ftcdn.net/jpg/01/70/89/30/360_F_170893071_tEAOG3bqlGoVBJyRxMjPSfxuvEssZFIJ.jpg",
+    "landmark_name":"Ambassador Bridge",
+    "city":"Detroit",
+    "category":"bridge",
+    "fact":"The bridge carries approximately 25% of trade between Canada and the United States.",
+    "location": [
+        {
+        "latitude":42.3119,
+        "longitude":-83.0741
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://live.staticflickr.com/65535/15684479113_071cb6405a_b.jpg",
+    "landmark_name":"Renaissance Center",
+    "city":"Detroit",
+    "category":"skyscraper",
+    "fact":"The first tower of the Renaissance Center opened on July 1, 1976.",
+    "location": [
+        {
+        "latitude":42.3290,
+        "longitude":-83.0397
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://www.heritagedaily.com/wp-content/uploads/2023/01/rushmore-741x486.jpg",
+    "landmark_name":"Mount Rushmore",
+    "city":"Keystone",
+    "category":"statue",
+    "fact":"The memorial was iconically used as the location of the climactic chase scene in Alfred Hitchcock's 1959 movie North by Northwest.",
+    "location": [
+        {
+        "latitude":43.8789,
+        "longitude":-103.4598
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://a.cdn-hotels.com/gdcs/production183/d208/544ce81c-5dfe-4f01-8461-0f941576f4af.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+    "landmark_name":"CN Tower",
+    "city":"Toronto",
+    "category":"skyscraper",
+    "fact":"The idea of the CN Tower originated in 1968 when the Canadian National Railway had a desire to build a large TV and radio communication platform to serve the Toronto area.",
+    "location": [
+        {
+        "latitude":43.6426,
+        "longitude":-79.3871
+        }
+    ]
+},
+{
+    "type":"landmark",
+    "link":"https://i0.wp.com/stuckincustoms.smugmug.com/Portfolio/i-K2wFh3V/0/61c33571/900x601/Toronto%20fun%20%28201%20of%20567%29-900x601.jpg?resize=900%2C601&ssl=1",
+    "landmark_name":"Casa Loma",
+    "city":"Toronto",
+    "category":"residence",
+    "fact":"It was originally a residence for financier Sir Henry Mill Pellatt.",
+    "location": [
+        {
+        "latitude":43.6780,
+        "longitude":-79.4094
+        }
+    ]   
+}
+]
