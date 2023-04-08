@@ -12,6 +12,7 @@ function App() {
   return (
     <Router>
       <Header />
+      <h1><center>Test few words..</center></h1>
       <div className='center'>
        
         
