@@ -23,7 +23,7 @@ workflows:
 # Define the jobs we want to run for this project
 jobs:
   build:
-    working_directory: ~/DevOpsSecCA
+    working_directory: ~/SimpleApp
     docker:
       - image: circleci/node:latest
     steps:
@@ -46,5 +46,5 @@ jobs:
     steps:
       - run: 
           name: deploy-application
-          command: ssh -o StrictHostKeyChecking=no $EC2_USERNAME@$EC2_PUBLIC_DNS "rm -rf DevOpsSecCA/; git clone https://github.com/JarekTkacz/DevOpsSecCA; source DevOpsSecCA/deploy.sh"
+          command: ssh -o StrictHostKeyChecking=no $EC2_USERNAME@$EC2_PUBLIC_DNS "rm -rf SimpleApp/; git clone https://github.com/JarekTkacz/SimpleApp; source SimpleApp/deploy.sh"
 # deployment successful
